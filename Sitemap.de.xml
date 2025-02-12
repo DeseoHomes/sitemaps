@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <!-- Homepage - Highest priority -->
+    <url>
+        <loc>https://www.deseohomes.com/de</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://www.deseohomes.com/de"/>
+    </url>
+
+    <!-- Important information pages -->
+    <url>
+        <loc>https://www.deseohomes.com/de/immobilienmakler-in-javea</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/estate-agent-in-javea"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/makelaar-in-javea"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/haus-kaufen-costa-blanca</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/property-for-sale-costa-blanca"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/huis-kopen-costa-blanca"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/haus-kaufen-in-javea</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/property-for-sale-javea"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/huis-kopen-in-javea"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/haus-kaufen-moraira</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/property-for-sale-moraira"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/huis-kopen-moraira"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/haus-kaufen-denia</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/property-for-sale-denia"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/huis-kopen-denia"/>
+    </url>
+
+    <!-- Important search and region pages -->
+    <url>
+        <loc>https://www.deseohomes.com/de/suchservice</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/property-search"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/zoekservice"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/immobilien-in-javea</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/properties-for-sale-in-javea"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/woningen-te-koop-in-javea"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/immobilien-in-moraira</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/properties-for-sale-in-moraira"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/woningen-te-koop-in-moraira"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/immobilien-in-denia</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/properties-for-sale-in-denia"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/woningen-te-koop-in-denia"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/immobilien-in-benitachell</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/properties-for-sale-in-benitachell"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/woningen-te-koop-in-benitachell"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/immobilien-in-benissa</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/properties-for-sale-in-benissa"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/woningen-te-koop-in-benissa"/>
+    </url>
+
+    <!-- Supporting pages -->
+    <url>
+        <loc>https://www.deseohomes.com/de/verkaufen</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/selling-your-house-in-javea"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/verkopen"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/kosten-beim-hauskauf-in-spanien</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/costs-when-buying-a-property-in-spain"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/kosten-bij-het-kopen-van-een-huis-in-spanje"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/hypothek-in-spanien</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/mortgage-in-spain"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/hypotheek-in-spanje"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/die-nie-nummer-in-spanien</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/the-nie-number-in-spain"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/het-nie-nummer-in-spanje"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/das-wetter-in-javea</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/the-weather-in-javea"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/het-weer-in-javea"/>
+    </url>
+
+    <!-- Contact and About -->
+    <url>
+        <loc>https://www.deseohomes.com/de/uber-uns</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/about-us"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/over-ons"/>
+    </url>
+    <url>
+        <loc>https://www.deseohomes.com/de/kontakt</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.deseohomes.com/en/contact-us"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.deseohomes.com/nl/contact"/>
+    </url>
+</urlset>
